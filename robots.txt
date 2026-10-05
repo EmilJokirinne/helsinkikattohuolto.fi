@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kiitos
+
+Sitemap: https://helsinkikattohuolto.fi/sitemap.xml
